@@ -1,0 +1,340 @@
+MODEL 1
+REMARK VINA RESULT:      -7.1      0.000      0.000
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      26.427  -1.817   7.540  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      26.903  -2.591   6.425  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      26.090  -0.499   7.090  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      29.468  -1.589  10.697  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      29.138  -2.825  10.137  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      28.178  -2.893   9.133  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      27.544  -1.731   8.684  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      27.874  -0.497   9.249  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      28.838  -0.424  10.254  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      30.401  -1.524  11.676  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      25.124  -2.515   8.166  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      24.707  -3.773   7.864  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      23.434  -4.357   7.879  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      23.723  -5.647   7.486  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      25.048  -5.810   7.261  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      25.683  -4.656   7.492  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      22.703  -6.742   7.320  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.2      2.692      3.407
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      28.828  -1.935  10.008  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      29.128  -0.882   9.077  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      27.860  -1.467  10.956  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      32.446  -3.249  12.115  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      32.084  -3.856  10.912  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      30.939  -3.435  10.244  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      30.153  -2.406  10.772  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      30.518  -1.802  11.978  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      31.666  -2.221  12.649  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      33.560  -3.662  12.767  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      28.230  -3.200   9.220  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      26.986  -3.246   8.674  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      26.125  -4.321   8.417  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      25.049  -3.675   7.844  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      25.258  -2.339   7.768  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      26.459  -2.048   8.278  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      23.795  -4.356   7.365  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.1      4.485      7.103
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      30.593  -1.929  11.041  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      30.212  -1.662  12.401  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      31.757  -1.159  10.716  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      27.338  -0.927   8.273  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      27.385  -2.192   8.862  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      28.415  -2.505   9.742  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      29.400  -1.559  10.039  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      29.351  -0.295   9.446  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      28.319   0.022   8.563  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      26.335  -0.624   7.413  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      30.923  -3.490  10.868  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      32.020  -4.105  11.385  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      32.731  -5.238  10.970  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      33.707  -5.317  11.941  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      33.581  -4.321  12.850  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      32.535  -3.553  12.525  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      34.783  -6.369  11.993  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.1     18.247     19.375
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      18.443 -12.500  22.479  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      19.087 -12.548  23.764  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      19.441 -12.416  21.454  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      15.756  -9.037  22.258  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      17.135  -8.842  22.348  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      17.984  -9.941  22.413  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      17.462 -11.238  22.387  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      16.081 -11.429  22.300  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      15.227 -10.329  22.233  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      14.929  -7.965  22.197  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      17.568 -13.828  22.262  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      18.065 -15.009  21.806  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      17.462 -16.059  21.102  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      18.516 -16.941  20.977  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      19.638 -16.455  21.557  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      19.382 -15.252  22.082  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      18.440 -18.275  20.283  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.9      6.280      9.759
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      32.362  -2.542  13.181  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      33.346  -3.547  12.881  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      31.773  -2.825  14.457  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      29.232  -2.473  10.107  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      29.160  -1.597  11.191  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      30.156  -1.618  12.162  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      31.226  -2.510  12.053  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      31.294  -3.387  10.967  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      30.297  -3.367   9.992  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      28.259  -2.453   9.163  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      33.060  -1.097  13.227  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      33.663  -0.570  14.326  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      33.863   0.756  14.728  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      34.546   0.581  15.913  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      34.733  -0.732  16.185  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      34.192  -1.470  15.210  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      35.024   1.698  16.802  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9      4.323      6.074
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      30.892  -2.177  11.464  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      31.901  -1.355  10.853  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      30.162  -1.396  12.419  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      32.740  -5.624  13.454  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      32.250  -4.562  14.217  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      31.660  -3.473  13.583  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      31.557  -3.440  12.190  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      32.051  -4.503  11.430  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      32.642  -5.597  12.062  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      33.317  -6.683  14.072  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      29.883  -2.721  10.341  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      29.089  -1.928   9.573  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      27.859  -2.173   8.949  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      27.625  -0.965   8.326  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      28.628  -0.086   8.561  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      29.553  -0.664   9.335  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      26.411  -0.649   7.494  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.8      4.795      7.897
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      31.602  -1.795  10.717  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      32.483  -0.661  10.639  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      32.246  -2.935  10.134  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      27.829  -0.958   8.637  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      28.859  -0.016   8.614  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      30.055  -0.286   9.270  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      30.229  -1.495   9.949  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      29.195  -2.435   9.972  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      27.995  -2.168   9.314  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      26.663  -0.693   7.999  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      31.256  -2.108  12.253  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      32.156  -2.566  13.164  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      31.992  -3.338  14.321  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      33.292  -3.422  14.777  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      34.144  -2.756  13.962  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      33.459  -2.213  12.950  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      33.720  -4.159  16.018  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.8      4.613      8.136
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      30.668  -2.034  11.050  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      30.927  -3.447  10.995  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      30.322  -1.669  12.392  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      27.414  -0.969   8.304  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      27.428  -2.226   8.910  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      28.458  -2.559   9.784  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      29.475  -1.640  10.056  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      29.459  -0.384   9.445  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      28.428  -0.047   8.570  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      26.412  -0.647   7.450  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      31.979  -1.225  10.600  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      33.088  -1.070  11.372  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      34.061  -0.064  11.406  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      34.900  -0.531  12.396  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      34.462  -1.710  12.900  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      33.334  -2.067  12.276  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      36.145   0.172  12.869  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.6      4.909      8.049
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      32.160  -2.520  11.559  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      32.964  -3.339  10.692  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      32.161  -3.085  12.877  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      28.055  -2.236  10.034  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      28.938  -3.166   9.483  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      30.237  -3.257   9.972  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      30.659  -2.423  11.011  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      29.773  -1.491  11.558  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      28.470  -1.398  11.071  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      26.791  -2.146   9.555  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      32.767  -1.035  11.618  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      33.230  -0.352  10.537  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      34.196   0.655  10.420  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      34.159   0.911   9.065  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      33.251   0.125   8.439  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      32.657  -0.670   9.336  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      35.017   1.926   8.360  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.5      5.364      8.590
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      32.289  -0.662   9.761  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      33.095  -1.521   8.936  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      32.766  -0.720  11.111  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      28.082  -1.899   9.589  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      29.058  -2.810   9.997  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      30.390  -2.413  10.054  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      30.753  -1.109   9.708  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      29.773  -0.201   9.298  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      28.437  -0.594   9.240  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      26.785  -2.287   9.530  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      32.388   0.849   9.227  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      33.476   1.372   8.602  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      33.956   2.686   8.520  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      35.074   2.517   7.730  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      35.238   1.220   7.376  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      34.253   0.487   7.907  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      36.004   3.624   7.311  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
+ENDMDL

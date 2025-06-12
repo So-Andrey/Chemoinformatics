@@ -1,0 +1,31 @@
+REMARK  Name = C:\Users\Andrei\Desktop\samsung\ligands\08b.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  S10_8
+REMARK    2  A    between atoms: S10_8  and  N13_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      8  S10 08D B 280      28.616  -0.356  10.027  0.00  0.00    +0.000 S 
+ATOM      9  O11 08D B 280      28.661  -0.888  11.362  0.00  0.00    +0.000 OA
+ATOM     10  O12 08D B 280      28.011   0.943  10.056  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8   4
+ATOM      1  C1  08D B 280      26.350  -3.019   7.375  0.00  0.00    +0.000 A 
+ATOM      2  C2  08D B 280      26.764  -3.474   8.628  0.00  0.00    +0.000 A 
+ATOM      3  C3  08D B 280      27.478  -2.626   9.468  0.00  0.00    +0.000 A 
+ATOM      4  C4  08D B 280      27.780  -1.323   9.063  0.00  0.00    +0.000 A 
+ATOM      5  C5  08D B 280      27.366  -0.872   7.807  0.00  0.00    +0.000 A 
+ATOM      6  C6  08D B 280      26.649  -1.719   6.963  0.00  0.00    +0.000 A 
+ATOM      7  N7  08D B 280      25.657  -3.847   6.556  0.00  0.00    +0.000 NA
+ENDBRANCH   8   4
+BRANCH   8  11
+ATOM     11  N13 08D B 280      30.106  -0.235   9.442  0.00  0.00    +0.000 NA
+ATOM     12  C15 08D B 280      31.071  -1.180   9.598  0.00  0.00    +0.000 A 
+ATOM     13  C16 08D B 280      32.468  -1.083   9.628  0.00  0.00    +0.000 A 
+ATOM     14  C17 08D B 280      32.828  -2.404   9.797  0.00  0.00    +0.000 A 
+ATOM     15  O18 08D B 280      31.740  -3.208   9.859  0.00  0.00    +0.000 OA
+ATOM     16  N19 08D B 280      30.633  -2.468   9.736  0.00  0.00    +0.000 NA
+ATOM     17  C20 08D B 280      34.245  -2.900   9.905  0.00  0.00    +0.000 C 
+ENDBRANCH   8  11
+TORSDOF 2
